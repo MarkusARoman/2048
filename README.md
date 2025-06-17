@@ -1,5 +1,5 @@
 # 2048
-A 1-hour 2048 game to practice my Lurch engine. 
+###A 1-hour 2048 game to practice my Lurch engine. 
 
 (Sorry about the colors, I couldn't find a good palette)
 
